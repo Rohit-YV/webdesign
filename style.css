@@ -1,0 +1,139 @@
+.top-container{
+    background-color: #FEFAF6;
+    position: relative;
+    padding-top: 100px;
+    font-family: "Merriweather", sans-serif;
+    text-align: center;
+}
+.pro{
+    text-decoration: underline;
+}
+.programer{
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-weight: normal;
+   font-size: 1.3rem ;
+
+}
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+}
+h1{
+    color: #66bfbf;
+    margin: 0 auto 0 auto ;
+    font-family: 'Sacramento',cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto ;
+
+}
+h2{
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem ; /*40 / 16*/
+    font-weight: normal;
+    padding-bottom: 10px;
+    
+}
+h3{
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+}
+hr{
+    border: dotted #FEFAF6 6px;
+    width: 4%;
+    margin: 100px auto;
+    border: solid #66bfbf;
+}
+p{
+    line-height: 2;
+}
+.bootom-cloud {
+    position: absolute;
+    left:300px;
+    bottom:450px;
+    
+}
+.top-cloud{ 
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+.code-img{
+    width: 50%;
+    float: left;
+    margin: 20px;
+}
+.hack-img{
+    width: 50%;
+    margin: 20px;
+    float: right;
+}
+.skill{
+    clear: left;
+}
+.poject{
+    clear: right;
+}
+.middle-container{
+    margin: 100px 0;
+
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.connect-message{
+    width: 40%;
+    margin: 5% auto 5%;
+}
+
+.btn{
+  font-size:25px;
+  font-family: "Merriweather", sans-serif;
+  width:140px;
+  height:50px;
+  border-width:1px;
+  color:#fff;
+  border-color:#0b0e07;
+  border-top-left-radius:3px;
+  border-top-right-radius:3px;
+  border-bottom-left-radius:3px;
+  border-bottom-right-radius:3px;
+  box-shadow:inset 0px -3px 7px 0px #29bbff;
+  text-shadow:inset 0px 1px 0px #263666;
+  background:linear-gradient(#2dabf9, #0688fa);
+}
+
+.btn:hover {
+  background: linear-gradient(#0688fa, #2dabf9);
+}
+.bottom-container{
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+}   
+a{
+    color: #11999e;
+    font-family: "Merriweather", sans-serif;
+    margin: 20px 30px;
+    text-decoration: none;
+
+}   
+a:hover{
+    color: #FEFAF6;
+} 
+.copy{
+    color: #EAF6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}       
